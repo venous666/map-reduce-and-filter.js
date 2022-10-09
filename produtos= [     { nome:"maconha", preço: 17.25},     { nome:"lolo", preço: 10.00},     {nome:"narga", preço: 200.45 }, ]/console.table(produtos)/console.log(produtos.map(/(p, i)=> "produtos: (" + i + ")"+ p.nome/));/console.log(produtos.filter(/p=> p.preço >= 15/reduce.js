@@ -1,7 +1,7 @@
 produtos= [
-    { nome:"maconha", preço: 17.25},
-    { nome:"lolo", preço: 10.00},
-    {nome:"narga", preço: 200.45 },
+    { nome:"melancia", preço: 17.25},
+    { nome:"laranja", preço: 10.00},
+    {nome:"melão", preço: 200.45 },
 ]
 
 //console.table(produtos)
